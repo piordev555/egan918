@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning many datas
 - 💞️ I’m looking to collaborate on community projects
 
-Uchiha Itachi. He is my fan from Uchiha clan with Uchiha sasuke.
 A friend is one who overlooks your broken fence and admires the flowers in your garden
 
 <img height="auto" width="100%" src="https://github.com/OVector/OVector/blob/main/assets/images (1).jfif">
