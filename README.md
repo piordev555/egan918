@@ -1,4 +1,4 @@
-A friend is one who overlooks your broken fence and admires the flowers in your garden
+A friend is one who overlooks your broken fence and admires the flowers in your garden.
 - 👋 Hi, I’m @OVector
 - 🌱 I’m currently learning many datas
 - 💞️ I’m looking to collaborate on community projects
