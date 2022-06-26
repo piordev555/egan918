@@ -1,7 +1,9 @@
 A friend is one who overlooks your broken fence and admires the flowers in your garden.
+<!--
 - 👋 Hi, I’m @OVector
 - 🌱 I’m currently learning many datas
 - 💞️ I’m looking to collaborate on community projects
+-->
 
 <img height="auto" width="100%" src="https://github.com/OVector/OVector/blob/main/assets/images (1).jfif">
 
