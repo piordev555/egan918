@@ -5,7 +5,8 @@ A friend is one who overlooks your broken fence and admires the flowers in your 
 - 💞️ I’m looking to collaborate on community projects
 -->
 
-<img height="auto" width="100%" src="https://github.com/OVector/OVector/blob/main/assets/images (1).jfif">
+![maxresdefault](https://user-images.githubusercontent.com/103172597/176584747-1d8eb1cc-bb7c-45bd-85b6-4262b73dd6e3.jpg)
+
 
 <!-- # Contact Me :
 
